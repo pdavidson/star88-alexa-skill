@@ -7,8 +7,8 @@ https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-lin
 https://github.com/alexa/skill-sample-nodejs-audio-player/tree/mainline/single-stream
 
 # Steps to use it
-npm install -g ask-cli
-aws configure
-ask init
-ask deploy 
+* npm install -g ask-cli
+* aws configure
+* ask init
+* ask deploy 
 
